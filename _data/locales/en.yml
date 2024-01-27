@@ -43,7 +43,7 @@ copyright:
 meta: Using the :THEME theme for :PLATFORM.
 
 not_found:
-  statment: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+  statment: Whoops, the URL you requested has disappeared into the eternal void. Sorry about that. Here, have this cat to cheer you up!
 
 notification:
   update_found: A new version of content is available.
@@ -75,11 +75,11 @@ post:
 # See: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
 df:
   post:
-    strftime: "%b %e, %Y"
-    dayjs: "ll"
+    strftime: "%A %e %B %Y"
+    dayjs: "dddd D MMMM YYYY"
   archives:
-    strftime: "%b"
-    dayjs: "MMM"
+    strftime: "%B"
+    dayjs: "MMMM"
 
 # categories page
 categories:
