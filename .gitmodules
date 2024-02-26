@@ -4,3 +4,6 @@
 [submodule "_drafts"]
 	path = _drafts
 	url = https://github.com/poshdirtypipeline/_drafts.git
+[submodule "assets"]
+	path = assets
+	url = https://github.com/poshdirtypipeline/assets.git
