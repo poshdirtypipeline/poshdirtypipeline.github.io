@@ -8,7 +8,7 @@ pin: false
 toc: true
 comments: true
 ---
-Yet again, the elections for our school leaders have been an absolute sheep-show. 
+Yet again, the elections for our school leaders have been an absolute clown-show. 
 
 On the 2nd of February (Friday Week 1), an announcement was made on the Senior Campus noticeboard: if you're interested in becoming a School Captain, please fill out the form. Having the expression of interest form released on the first week of school is incredibly early, but alright. Could be a once off thing.
 
@@ -30,6 +30,11 @@ Speeches make or break elections! Especially considering the Year 10's have had 
 On top of all of this, we don't even know who our Year Captains are, or if there's even going to be a re-election, which looks incredibly rare considering we haven't had a re-election *ever*! I personally want to see new leadership representing my year level, not people who we picked *over two years ago* still representing us[^2]. 
 
 Melba Copland, pull your stuff together, and give us representation by people we actually think represent us. 
+
+## Update 29/02/2024
+
+As of the 29th of Feb, Year Captain Elections have been announced through SOBS. The Pipeline will be reporting on the election throughout.
+
 # Footnotes
 
 [^1]: I didn't have access to the original form, for those who did please let me know if this was consistent across both of them!
